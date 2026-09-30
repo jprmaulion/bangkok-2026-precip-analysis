@@ -1,5 +1,5 @@
-# A network-science analysis of the September 2026 Bangkok floods**
-
+# A network-science analysis of the September 2026 Bangkok 🇹🇭 floods
+ 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
