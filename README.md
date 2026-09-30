@@ -6,7 +6,7 @@
 
 ![Graphical abstract: five Bangkok stations sized and colored by September 2026 total rainfall](figures/graphical_abstract.png)
 
-## About
+## About this repository
 
 Five real rain gauges across Bangkok, one flood, three network-science questions. Did the September 2026
 rainfall carry a spatial direction, did stations synchronize on their worst days, and was the city already
