@@ -75,13 +75,10 @@ the notebook's Known Limitations section.
 
 ## Future Work
 
-Multi-lag Granger, a replicated 2011 analysis for direct comparison, sensitivity checks on the event
-synchronization thresholds, a test of a single city-wide antecedent index against the per-station
-preconditioning network, and a parallel Manila comparison. Full detail in the notebook.
+I plan to explore multi-lag Granger approaches, a replicated 2011 analysis for direct comparison, sensitivity checks on the event synchronization thresholds, a test of a single city-wide antecedent index against the per-station preconditioning network, and a parallel Manila, Philippines 🇵🇭 comparison. 
 
 ## License
 
-MIT. Data belongs to OGIMET / Thailand Meteorological Department; this repository only redistributes a
-derived, parsed subset for reproducibility.
+MIT. Data belongs to OGIMET / Thailand Meteorological Department.
 
 Questions? Send them over at jprmaulion[at]gmail[com]. *Salamat po!*
